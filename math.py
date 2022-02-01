@@ -3,10 +3,10 @@ def add(x,y):
    return
 #Subtract   
 def subtract(x,y):
-   pass
+   return
 #Multiply
 def multiply(x,y):
-   retu  rn
+   return
 #Divide
 def divide(x,y):
    pass
